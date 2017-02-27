@@ -7,3 +7,5 @@ conflict three
 conflict four
 
 conflict five
+
+conflict six
